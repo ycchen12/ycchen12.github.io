@@ -2,7 +2,7 @@
 
 Static academic portfolio migrated from the updated Leo Chen website: personal photo, publications, projects, and contact details, with a cream and blue layout and bundled fonts.
 
-Includes the **Gaze-to-Body** publication and **Sheep Invader** project description and Shorts demo. The navigation links to Publications, Projects, and a CV hosted on Google Drive. Workshop entries remain empty.
+Includes the **Gaze-to-Body** publication and **Sheep Invader** project description and Shorts demo. The navigation links to Publications, Projects, and a CV hosted on Google Drive. The introduction also links to email, GitHub, and CV.
 
 ## Deploy
 
