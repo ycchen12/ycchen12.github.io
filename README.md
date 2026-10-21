@@ -1,6 +1,6 @@
-# 陳又銓 Leo Chen — Personal website
+# 陳又銓 Yu Chuan Chen — Personal website
 
-Static academic portfolio migrated from the updated Leo Chen website: personal photo, publications, projects, and contact details, with a cream and blue layout and bundled fonts.
+Static academic portfolio migrated from the updated Yu Chuan Chen website: personal photo, publications, projects, and contact details, with a cream and blue layout and bundled fonts.
 
 Includes the **Gaze-to-Body** and **AudioAvatar** publications, plus **Sheep Invader** and **Indoor Weather** project descriptions and demos. The navigation links to Publications, Projects, and a CV hosted on Google Drive. The introduction also links to email, GitHub, and CV.
 
