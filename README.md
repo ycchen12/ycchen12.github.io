@@ -1,6 +1,8 @@
 # 陳又銓 Leo Chen — Personal website
 
-Responsive, static portfolio with project details, experience, theme switching, and print-friendly résumé.
+Static academic portfolio migrated from the updated Leo Chen website: personal photo, publications, projects, and contact details, with a cream and blue layout and bundled fonts.
+
+Includes the **Gaze-to-Body** publication and **Sheep Invader** project video. News and workshop entries remain empty, and CV is a placeholder until a résumé is provided.
 
 ## Deploy
 
@@ -11,7 +13,14 @@ Website: https://ycchen12.github.io/
 ## Edit
 
 - `public/index.html`: content
-- `public/style.css`: layout, themes, responsive and print styles
-- `public/app.js`: theme, navigation and print behavior
+- `public/style.css`: layout, typography, responsive styles, and reduced-motion support
+- `public/app.js`: Taipei clock and footer year
+- `public/profile.jpg`: personal photo
+- `public/sheep-invader.jpg`: project video thumbnail
+- `public/fonts/`: bundled Red Hat Display fonts
 
-All assets use relative paths and work at the website root. No build dependencies are required.
+All assets use relative paths and work at the website root. No build dependencies or Sites hosting credentials are required.
+
+## Preview locally
+
+Run `python -m http.server 8000 --directory public` from the repository root and open `http://localhost:8000/`.
