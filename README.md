@@ -2,7 +2,7 @@
 
 Static academic portfolio migrated from the updated Leo Chen website: personal photo, publications, projects, and contact details, with a cream and blue layout and bundled fonts.
 
-Includes the **Gaze-to-Body** publication and **Sheep Invader** project description and Shorts demo. The navigation links to Publications, Projects, and a CV hosted on Google Drive. The introduction also links to email, GitHub, and CV.
+Includes the **Gaze-to-Body** and **AudioAvatar** publications, plus **Sheep Invader** and **Indoor Weather** project descriptions and demos. The navigation links to Publications, Projects, and a CV hosted on Google Drive. The introduction also links to email, GitHub, and CV.
 
 ## Deploy
 
@@ -16,7 +16,8 @@ Website: https://ycchen12.github.io/
 - `public/style.css`: layout, typography, responsive styles, and reduced-motion support
 - `public/app.js`: Taipei clock and footer year
 - `public/profile.jpg`: personal photo
-- `public/sheep-invader.jpg`: project video thumbnail
+- `public/sheep-invader.jpg`: Sheep Invader video thumbnail
+- `public/indoor-weather.png`: Indoor Weather cover from the supplied project presentation
 - `public/fonts/`: bundled Red Hat Display fonts
 
 All assets use relative paths and work at the website root. No build dependencies or Sites hosting credentials are required.
